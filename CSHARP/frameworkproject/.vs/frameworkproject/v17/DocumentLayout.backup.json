@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\frameworkproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03D9D818-06F1-4C11-B2D2-F133981318CB}|frameworkproject\\frameworkproject.csproj|c:\\users\\user\\source\\repos\\frameworkproject\\frameworkproject\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D9D818-06F1-4C11-B2D2-F133981318CB}|frameworkproject\\frameworkproject.csproj|solutionrelative:frameworkproject\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D9D818-06F1-4C11-B2D2-F133981318CB}|frameworkproject\\frameworkproject.csproj|c:\\users\\user\\source\\repos\\frameworkproject\\frameworkproject\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D9D818-06F1-4C11-B2D2-F133981318CB}|frameworkproject\\frameworkproject.csproj|solutionrelative:frameworkproject\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D9D818-06F1-4C11-B2D2-F133981318CB}|frameworkproject\\frameworkproject.csproj|c:\\users\\user\\source\\repos\\frameworkproject\\frameworkproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D9D818-06F1-4C11-B2D2-F133981318CB}|frameworkproject\\frameworkproject.csproj|solutionrelative:frameworkproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D9D818-06F1-4C11-B2D2-F133981318CB}|frameworkproject\\frameworkproject.csproj|c:\\users\\user\\source\\repos\\frameworkproject\\frameworkproject\\editpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D9D818-06F1-4C11-B2D2-F133981318CB}|frameworkproject\\frameworkproject.csproj|solutionrelative:frameworkproject\\editpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D9D818-06F1-4C11-B2D2-F133981318CB}|frameworkproject\\frameworkproject.csproj|c:\\users\\user\\source\\repos\\frameworkproject\\frameworkproject\\buttonpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D9D818-06F1-4C11-B2D2-F133981318CB}|frameworkproject\\frameworkproject.csproj|solutionrelative:frameworkproject\\buttonpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "homepage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\frameworkproject\\frameworkproject\\homepage.cs",
+              "RelativeDocumentMoniker": "frameworkproject\\homepage.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\frameworkproject\\frameworkproject\\homepage.cs",
+              "RelativeToolTip": "frameworkproject\\homepage.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:34:02.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\frameworkproject\\frameworkproject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "frameworkproject\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\frameworkproject\\frameworkproject\\UnitTest1.cs",
+              "RelativeToolTip": "frameworkproject\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T13:57:05.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Buttonpage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\frameworkproject\\frameworkproject\\Buttonpage.cs",
+              "RelativeDocumentMoniker": "frameworkproject\\Buttonpage.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\frameworkproject\\frameworkproject\\Buttonpage.cs",
+              "RelativeToolTip": "frameworkproject\\Buttonpage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:14:23.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Editpage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\frameworkproject\\frameworkproject\\Editpage.cs",
+              "RelativeDocumentMoniker": "frameworkproject\\Editpage.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\frameworkproject\\frameworkproject\\Editpage.cs",
+              "RelativeToolTip": "frameworkproject\\Editpage.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:14:17.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Basepage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\frameworkproject\\frameworkproject\\Basepage.cs",
+              "RelativeDocumentMoniker": "frameworkproject\\Basepage.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\frameworkproject\\frameworkproject\\Basepage.cs",
+              "RelativeToolTip": "frameworkproject\\Basepage.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:12:17.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
